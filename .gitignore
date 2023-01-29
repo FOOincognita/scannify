@@ -60,10 +60,10 @@ var/
 # Briefcase build directories
 iOS/
 macOS/
-windows/
-android/
+# windows/
+# android/
 linux/
 django/
 
 # Briefcase log files
-logs/
+# logs/

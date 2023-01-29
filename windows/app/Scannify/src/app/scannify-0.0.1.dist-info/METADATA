@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.11
+Name: scannify
+Formal-Name: Scannify
+App-ID: com.example.scannify.scannify
+Version: 0.0.1
+Home-page: https://scannify.example.com/scannify
+Download-URL: https://scannify.example.com/scannify
+Author: Archer Simmons
+Author-email: Archer1799@gmail.com
+Summary: Document scanner application

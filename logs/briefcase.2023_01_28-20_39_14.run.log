@@ -1,0 +1,401 @@
+Date/Time:       2023-01-28 20:39:16 
+Command line:    C:\Users\arche\AppData\Local\Programs\Python\Python311\Scripts\briefcase run android
+
+OS Release:      Windows 10
+OS Version:      10.0.22000
+Architecture:    AMD64
+Platform:        Windows-10-10.0.22000-SP0
+
+Python exe:      C:\Users\arche\AppData\Local\Programs\Python\Python311\python.exe
+Python version:  3.11.1 (tags/v3.11.1:a7a450f, Dec  6 2022, 19:58:39) [MSC v.1934 64 bit (AMD64)]
+Virtual env:     False
+Conda env:       False
+
+Briefcase:       0.3.11
+Target platform: android
+Target format:   gradle
+
+Environment Variables:
+    ALLUSERSPROFILE=C:\ProgramData
+    APPDATA=C:\Users\arche\AppData\Roaming
+    ASL.LOG=Destination=file
+    CABAL_DIR=C:\cabal
+    COMMONPROGRAMFILES=C:\Program Files\Common Files
+    COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+    COMMONPROGRAMW6432=C:\Program Files\Common Files
+    COMPUTERNAME=BOOL-STATION
+    COMSPEC=C:\windows\system32\cmd.exe
+    DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+    FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+    FPS_BROWSER_USER_PROFILE_STRING=Default
+    GHCUP_INSTALL_BASE_PREFIX=C:\
+    HOMEDRIVE=C:
+    HOMEPATH=\Users\arche
+    INTEL_DEV_REDIST=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+    JAVA_HOME=C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08
+    LOCALAPPDATA=C:\Users\arche\AppData\Local
+    LOGONSERVER=\\BOOL-STATION
+    MEDIT_CHITUBOX_BASIC_BRIDGE=C:\Program Files\CHITUBOX  V1.9.4
+    MIC_LD_LIBRARY_PATH=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+    NIEXTCCOMPILERSUPP=C:\Program Files (x86)\National Instruments\Shared\ExternalCompilerSupport\C\
+    NUMBER_OF_PROCESSORS=16
+    ONEDRIVE=C:\Users\arche\OneDrive
+    OS=Windows_NT
+    PATH=C:\Program Files\PowerShell\7;C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MinGW\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Python\Scripts;C:\Program Files\Git\cmd;C:\windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files\CMake\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\IncrediBuild;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\starship\bin\;C:\Program Files\Crucial\Crucial Storage Executive;C:\Program Files\PowerShell\7\;C:\Users\arche\.cargo\bin;C:\Users\arche\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\arche\AppData\Local\Programs\Python\Python311\;C:\Users\arche\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\arche\AppData\Local\Programs\Python\Python310\;C:\Users\arche\AppData\Local\Microsoft\WindowsApps;C:\Users\arche\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\arche\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\arche\.dotnet\tools;C:\Users\arche\.cargo\bin;C:\ghcup\bin
+    PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+    POWERSHELL_DISTRIBUTION_CHANNEL=MSI:Windows 10 Home
+    PROCESSOR_ARCHITECTURE=AMD64
+    PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+    PROCESSOR_LEVEL=6
+    PROCESSOR_REVISION=a502
+    PROGRAMDATA=C:\ProgramData
+    PROGRAMFILES=C:\Program Files
+    PROGRAMFILES(X86)=C:\Program Files (x86)
+    PROGRAMW6432=C:\Program Files
+    PSMODULEPATH=C:\Users\arche\Documents\PowerShell\Modules;C:\Program Files\PowerShell\Modules;c:\program files\powershell\7\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\PowerShell\Modules\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\PowerShell\Modules\
+    PUBLIC=C:\Users\Public
+    SYSTEMDRIVE=C:
+    SYSTEMROOT=C:\windows
+    TEMP=C:\Users\arche\AppData\Local\Temp
+    TMP=C:\Users\arche\AppData\Local\Temp
+    USERDOMAIN=BOOL-STATION
+    USERDOMAIN_ROAMINGPROFILE=BOOL-STATION
+    USERNAME=arche
+    USERPROFILE=C:\Users\arche
+    WINDIR=C:\windows
+    WSLENV=WT_SESSION::WT_PROFILE_ID
+    WT_PROFILE_ID={574e775e-4f2a-5b96-ac1e-a2962a402336}
+    WT_SESSION=2fbe5b86-4363-44ca-969a-bf7b832f8e44
+    ZES_ENABLE_SYSMAN=1
+
+Briefcase Log:
+[20:38:49]                                                                                                                                                         subprocess.py:516
+           >>> Running Command:                                                                                                                                    subprocess.py:517
+           >>>     'C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\bin\javac' -version                                                            subprocess.py:518
+           >>> Working Directory:                                                                                                                                  subprocess.py:525
+           >>>     C:\Users\arche\scannify                                                                                                                         subprocess.py:526
+[20:38:50] >>> Command Output:                                                                                                                                     subprocess.py:542
+           >>>     javac 1.8.0_302                                                                                                                                 subprocess.py:544
+           >>> Return code: 0                                                                                                                                      subprocess.py:553
+           >>> Android emulator is already installed.                                                                                                             android_sdk.py:409
+                                                                                                                                                                   subprocess.py:516
+           >>> Running Command:                                                                                                                                    subprocess.py:517
+           >>>     'C:\Users\arche\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk\platform-tools\adb.exe' devices -l                                      subprocess.py:518
+           >>> Working Directory:                                                                                                                                  subprocess.py:525
+           >>>     C:\Users\arche\scannify                                                                                                                         subprocess.py:526
+           >>> Command Output:                                                                                                                                     subprocess.py:542
+           >>>     List of devices attached                                                                                                                        subprocess.py:544
+           >>>     emulator-5554          device product:sdk_gphone64_x86_64 model:sdk_gphone64_x86_64 device:emulator64_x86_64_arm64 transport_id:1               subprocess.py:544
+           >>>                                                                                                                                                     subprocess.py:544
+           >>> Return code: 0                                                                                                                                      subprocess.py:553
+                                                                                                                                                                   subprocess.py:516
+           >>> Running Command:                                                                                                                                    subprocess.py:517
+           >>>     'C:\Users\arche\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk\platform-tools\adb.exe' -s emulator-5554 emu avd name                   subprocess.py:518
+           >>> Working Directory:                                                                                                                                  subprocess.py:525
+           >>>     C:\Users\arche\scannify                                                                                                                         subprocess.py:526
+           >>> Command Output:                                                                                                                                     subprocess.py:542
+           >>>     nexus_6p                                                                                                                                        subprocess.py:544
+           >>>                                                                                                                                                     subprocess.py:544
+           >>>     OK                                                                                                                                              subprocess.py:544
+           >>>                                                                                                                                                     subprocess.py:544
+           >>> Return code: 0                                                                                                                                      subprocess.py:553
+                                                                                                                                                                   subprocess.py:516
+           >>> Running Command:                                                                                                                                    subprocess.py:517
+           >>>     'C:\Users\arche\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk\emulator\emulator.exe' -list-avds                                       subprocess.py:518
+           >>> Working Directory:                                                                                                                                  subprocess.py:525
+           >>>     C:\Users\arche\scannify                                                                                                                         subprocess.py:526
+           >>> Command Output:                                                                                                                                     subprocess.py:542
+           >>>     VisualStudio_android-25_arm_phone                                                                                                               subprocess.py:544
+           >>>     VisualStudio_android-25_x86_phone                                                                                                               subprocess.py:544
+           >>>     nexus_6p                                                                                                                                        subprocess.py:544
+           >>>     pixel_5_-_api_30                                                                                                                                subprocess.py:544
+           >>> Return code: 0                                                                                                                                      subprocess.py:553
+                                                                                                                                                                  android_sdk.py:764
+           Select device:                                                                                                                                         android_sdk.py:765
+                                                                                                                                                                  android_sdk.py:766
+             1) @nexus_6p (running emulator)                                                                                                                          console.py:562
+             2) @VisualStudio_android-25_arm_phone (emulator)                                                                                                         console.py:562
+             3) @VisualStudio_android-25_x86_phone (emulator)                                                                                                         console.py:562
+             4) @pixel_5_-_api_30 (emulator)                                                                                                                          console.py:562
+             5) Create a new Android emulator                                                                                                                         console.py:562
+                                                                                                                                                                      console.py:564
+[20:39:14] >                                                                                                                                                          console.py:567
+           >>> User input: 1                                                                                                                                          console.py:567
+                                                                                                                                                                  android_sdk.py:811
+           In future, you can specify this device by running:                                                                                                     android_sdk.py:811
+                                                                                                                                                                  android_sdk.py:811
+               $ briefcase run android -d @nexus_6p                                                                                                               android_sdk.py:811
+                                                                                                                                                                       gradle.py:212
+           [scannify] Starting app on @nexus_6p (running emulator) (device ID emulator-5554)                                                                           gradle.py:212
+                                                                                                                                                                       gradle.py:224
+           [scannify] Installing app...                                                                                                                                gradle.py:224
+                                                                                                                                                                   subprocess.py:516
+           >>> Running Command:                                                                                                                                    subprocess.py:517
+           >>>     'C:\Users\arche\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk\platform-tools\adb.exe' -s emulator-5554 shell am force-stop            subprocess.py:518
+           com.example.scannify.scannify                                                                                                                                            
+           >>> Working Directory:                                                                                                                                  subprocess.py:525
+           >>>     C:\Users\arche\scannify                                                                                                                         subprocess.py:526
+           >>> Command Output:                                                                                                                                     subprocess.py:542
+           >>>     adb.exe: device 'emulator-5554' not found                                                                                                       subprocess.py:544
+           >>> Return code: 1                                                                                                                                      subprocess.py:553
+           Stopping old versions of the app...                                                                                                                         gradle.py:225
+                                                                                                                                                                      __main__.py:27
+           Unable to force stop app com.example.scannify.scannify on emulator-5554                                                                                    __main__.py:28
+
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ C:\Users\arche\AppData\Local\Programs\Python\Python311\Lib\site-packages\briefcase\integrations\android_sdk.py:1185 in force_stop_app                                            │
+│                                                                                                                                                                                  │
+│   1182 │   │   # as you pass a package name, even if the package does not exist, or the                                                                                          │
+│   1183 │   │   # package is not running.                                                                                                                                         │
+│   1184 │   │   try:                                                                                                                                                              │
+│ ❱ 1185 │   │   │   self.run("shell", "am", "force-stop", package)                                                                                                                │
+│   1186 │   │   except subprocess.CalledProcessError as e:                                                                                                                        │
+│   1187 │   │   │   raise BriefcaseCommandError(                                                                                                                                  │
+│   1188 │   │   │   │   f"Unable to force stop app {package} on {self.device}"                                                                                                    │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────── locals ─────────────────────────────────────╮                                                                                              │
+│ │ package = 'com.example.scannify.scannify'                                       │                                                                                              │
+│ │    self = <briefcase.integrations.android_sdk.ADB object at 0x0000020C27547C10> │                                                                                              │
+│ ╰─────────────────────────────────────────────────────────────────────────────────╯                                                                                              │
+│                                                                                                                                                                                  │
+│ C:\Users\arche\AppData\Local\Programs\Python\Python311\Lib\site-packages\briefcase\integrations\android_sdk.py:1143 in run                                                       │
+│                                                                                                                                                                                  │
+│   1140 │   │   try:                                                                                                                                                              │
+│   1141 │   │   │   # Capture `stderr` so that if the process exits with failure, the                                                                                             │
+│   1142 │   │   │   # stderr data is in `e.output`.                                                                                                                               │
+│ ❱ 1143 │   │   │   return self.tools.subprocess.check_output(                                                                                                                    │
+│   1144 │   │   │   │   [                                                                                                                                                         │
+│   1145 │   │   │   │   │   os.fsdecode(self.tools.android_sdk.adb_path),                                                                                                         │
+│   1146 │   │   │   │   │   "-s",                                                                                                                                                 │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────── locals ──────────────────────────────────────╮                                                                                            │
+│ │ arguments = ('shell', 'am', 'force-stop', 'com.example.scannify.scannify')        │                                                                                            │
+│ │      self = <briefcase.integrations.android_sdk.ADB object at 0x0000020C27547C10> │                                                                                            │
+│ ╰───────────────────────────────────────────────────────────────────────────────────╯                                                                                            │
+│                                                                                                                                                                                  │
+│ C:\Users\arche\AppData\Local\Programs\Python\Python311\Lib\site-packages\briefcase\integrations\subprocess.py:127 in inner                                                       │
+│                                                                                                                                                                                  │
+│   124 │   │   │   with sub.tools.input.release_console_control():                                                                                                                │
+│   125 │   │   │   │   return sub_method(sub, args, **kwargs)                                                                                                                     │
+│   126 │   │   else:                                                                                                                                                              │
+│ ❱ 127 │   │   │   return sub_method(sub, args, **kwargs)                                                                                                                         │
+│   128 │                                                                                                                                                                          │
+│   129 │   return inner                                                                                                                                                           │
+│   130                                                                                                                                                                            │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────────────────── locals ────────────────────────────────────────────────────────────╮                                               │
+│ │                    args = [                                                                                                    │                                               │
+│ │                           │   'C:\\Users\\arche\\AppData\\Local\\BeeWare\\briefcase\\Cache\\tools\\android_sdk\\platform-'+13, │                                               │
+│ │                           │   '-s',                                                                                            │                                               │
+│ │                           │   'emulator-5554',                                                                                 │                                               │
+│ │                           │   'shell',                                                                                         │                                               │
+│ │                           │   'am',                                                                                            │                                               │
+│ │                           │   'force-stop',                                                                                    │                                               │
+│ │                           │   'com.example.scannify.scannify'                                                                  │                                               │
+│ │                           ]                                                                                                    │                                               │
+│ │              executable = 'C:\\Users\\arche\\AppData\\Local\\BeeWare\\briefcase\\Cache\\tools\\android_sdk\\platform-'+13      │                                               │
+│ │                  kwargs = {'stderr': -2}                                                                                       │                                               │
+│ │ remove_dynamic_elements = False                                                                                                │                                               │
+│ │                     sub = <briefcase.integrations.subprocess.Subprocess object at 0x0000020C26515150>                          │                                               │
+│ │              sub_method = <function Subprocess.check_output at 0x0000020C274318A0>                                             │                                               │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                               │
+│                                                                                                                                                                                  │
+│ C:\Users\arche\AppData\Local\Programs\Python\Python311\Lib\site-packages\briefcase\integrations\subprocess.py:371 in check_output                                                │
+│                                                                                                                                                                                  │
+│   368 │   │   self._log_environment(kwargs.get("env"))                                                                                                                           │
+│   369 │   │                                                                                                                                                                      │
+│   370 │   │   try:                                                                                                                                                               │
+│ ❱ 371 │   │   │   cmd_output = self._subprocess.check_output(                                                                                                                    │
+│   372 │   │   │   │   [str(arg) for arg in args], **self.final_kwargs(**kwargs)                                                                                                  │
+│   373 │   │   │   )                                                                                                                                                              │
+│   374 │   │   except subprocess.CalledProcessError as e:                                                                                                                         │
+│                                                                                                                                                                                  │
+│ ╭─────────────────────────────────────────────────── locals ────────────────────────────────────────────────────╮                                                                │
+│ │   args = [                                                                                                    │                                                                │
+│ │          │   'C:\\Users\\arche\\AppData\\Local\\BeeWare\\briefcase\\Cache\\tools\\android_sdk\\platform-'+13, │                                                                │
+│ │          │   '-s',                                                                                            │                                                                │
+│ │          │   'emulator-5554',                                                                                 │                                                                │
+│ │          │   'shell',                                                                                         │                                                                │
+│ │          │   'am',                                                                                            │                                                                │
+│ │          │   'force-stop',                                                                                    │                                                                │
+│ │          │   'com.example.scannify.scannify'                                                                  │                                                                │
+│ │          ]                                                                                                    │                                                                │
+│ │ kwargs = {'stderr': -2}                                                                                       │                                                                │
+│ │   self = <briefcase.integrations.subprocess.Subprocess object at 0x0000020C26515150>                          │                                                                │
+│ ╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                │
+│                                                                                                                                                                                  │
+│ C:\Users\arche\AppData\Local\Programs\Python\Python311\Lib\subprocess.py:466 in check_output                                                                                     │
+│                                                                                                                                                                                  │
+│    463 │   │   │   empty = b''                                                                                                                                                   │
+│    464 │   │   kwargs['input'] = empty                                                                                                                                           │
+│    465 │                                                                                                                                                                         │
+│ ❱  466 │   return run(*popenargs, stdout=PIPE, timeout=timeout, check=True,                                                                                                      │
+│    467 │   │   │      **kwargs).stdout                                                                                                                                           │
+│    468                                                                                                                                                                           │
+│    469                                                                                                                                                                           │
+│                                                                                                                                                                                  │
+│ ╭─────────────────────────────────────────────────────── locals ───────────────────────────────────────────────────────╮                                                         │
+│ │        kw = 'check'                                                                                                  │                                                         │
+│ │    kwargs = {'stderr': -2, 'text': True, 'encoding': 'cp437'}                                                        │                                                         │
+│ │ popenargs = (                                                                                                        │                                                         │
+│ │             │   [                                                                                                    │                                                         │
+│ │             │   │   'C:\\Users\\arche\\AppData\\Local\\BeeWare\\briefcase\\Cache\\tools\\android_sdk\\platform-'+13, │                                                         │
+│ │             │   │   '-s',                                                                                            │                                                         │
+│ │             │   │   'emulator-5554',                                                                                 │                                                         │
+│ │             │   │   'shell',                                                                                         │                                                         │
+│ │             │   │   'am',                                                                                            │                                                         │
+│ │             │   │   'force-stop',                                                                                    │                                                         │
+│ │             │   │   'com.example.scannify.scannify'                                                                  │                                                         │
+│ │             │   ],                                                                                                   │                                                         │
+│ │             )                                                                                                        │                                                         │
+│ │   timeout = None                                                                                                     │                                                         │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                         │
+│                                                                                                                                                                                  │
+│ C:\Users\arche\AppData\Local\Programs\Python\Python311\Lib\subprocess.py:571 in run                                                                                              │
+│                                                                                                                                                                                  │
+│    568 │   │   │   raise                                                                                                                                                         │
+│    569 │   │   retcode = process.poll()                                                                                                                                          │
+│    570 │   │   if check and retcode:                                                                                                                                             │
+│ ❱  571 │   │   │   raise CalledProcessError(retcode, process.args,                                                                                                               │
+│    572 │   │   │   │   │   │   │   │   │    output=stdout, stderr=stderr)                                                                                                        │
+│    573 │   return CompletedProcess(process.args, retcode, stdout, stderr)                                                                                                        │
+│    574                                                                                                                                                                           │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────────────────────── locals ──────────────────────────────────────────────────────────╮                                                    │
+│ │ capture_output = False                                                                                                    │                                                    │
+│ │          check = True                                                                                                     │                                                    │
+│ │          input = None                                                                                                     │                                                    │
+│ │         kwargs = {'stdout': -1, 'stderr': -2, 'text': True, 'encoding': 'cp437'}                                          │                                                    │
+│ │      popenargs = (                                                                                                        │                                                    │
+│ │                  │   [                                                                                                    │                                                    │
+│ │                  │   │   'C:\\Users\\arche\\AppData\\Local\\BeeWare\\briefcase\\Cache\\tools\\android_sdk\\platform-'+13, │                                                    │
+│ │                  │   │   '-s',                                                                                            │                                                    │
+│ │                  │   │   'emulator-5554',                                                                                 │                                                    │
+│ │                  │   │   'shell',                                                                                         │                                                    │
+│ │                  │   │   'am',                                                                                            │                                                    │
+│ │                  │   │   'force-stop',                                                                                    │                                                    │
+│ │                  │   │   'com.example.scannify.scannify'                                                                  │                                                    │
+│ │                  │   ],                                                                                                   │                                                    │
+│ │                  )                                                                                                        │                                                    │
+│ │        process = <Popen: returncode: 1 args: ['C:\\Users\\arche\\AppData\\Local\\BeeWare\\bri...>                         │                                                    │
+│ │        retcode = 1                                                                                                        │                                                    │
+│ │         stderr = None                                                                                                     │                                                    │
+│ │         stdout = "adb.exe: device 'emulator-5554' not found\n"                                                            │                                                    │
+│ │        timeout = None                                                                                                     │                                                    │
+│ ╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                    │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+CalledProcessError: Command '['C:\\Users\\arche\\AppData\\Local\\BeeWare\\briefcase\\Cache\\tools\\android_sdk\\platform-tools\\adb.exe', '-s', 'emulator-5554', 'shell', 'am', 'force-stop', 'com.example.scannify.scannify']' returned non-zero exit status 1.
+
+The above exception was the direct cause of the following exception:
+
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ C:\Users\arche\AppData\Local\Programs\Python\Python311\Lib\site-packages\briefcase\__main__.py:21 in main                                                                        │
+│                                                                                                                                                                                  │
+│   18 │   │   options = command.parse_options(extra=extra_cmdline)                                                                                                                │
+│   19 │   │   command.check_obsolete_data_dir()                                                                                                                                   │
+│   20 │   │   command.parse_config(Path.cwd() / "pyproject.toml")                                                                                                                 │
+│ ❱ 21 │   │   command(**options)                                                                                                                                                  │
+│   22 │   except HelpText as e:                                                                                                                                                   │
+│   23 │   │   logger.info()                                                                                                                                                       │
+│   24 │   │   logger.info(str(e))                                                                                                                                                 │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────────────────── locals ─────────────────────────────────────────────────────╮                                                             │
+│ │       command = <briefcase.platforms.android.gradle.GradleRunCommand object at 0x0000020C23C81D10>               │                                                             │
+│ │       Command = <class 'briefcase.platforms.android.gradle.GradleRunCommand'>                                    │                                                             │
+│ │       console = <briefcase.console.Console object at 0x0000020C23BF3A50>                                         │                                                             │
+│ │             e = BriefcaseCommandError('Unable to force stop app com.example.scannify.scannify on emulator-5554') │                                                             │
+│ │ extra_cmdline = []                                                                                               │                                                             │
+│ │        logger = <briefcase.console.Log object at 0x0000020C24412A10>                                             │                                                             │
+│ │       options = {'appname': None, 'update': False, 'device_or_avd': None}                                        │                                                             │
+│ │        result = 200                                                                                              │                                                             │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                             │
+│                                                                                                                                                                                  │
+│ C:\Users\arche\AppData\Local\Programs\Python\Python311\Lib\site-packages\briefcase\commands\run.py:68 in __call__                                                                │
+│                                                                                                                                                                                  │
+│   65 │   │                                                                                                                                                                       │
+│   66 │   │   self.verify_app_tools(app)                                                                                                                                          │
+│   67 │   │                                                                                                                                                                       │
+│ ❱ 68 │   │   state = self.run_app(app, **full_options(state, options))                                                                                                           │
+│   69 │   │                                                                                                                                                                       │
+│   70 │   │   return state                                                                                                                                                        │
+│   71                                                                                                                                                                             │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────────────────────── locals ─────────────────────────────────────────────────────────╮                                                     │
+│ │           app = <com.example.scannify.scannify v0.0.1 AppConfig>                                                         │                                                     │
+│ │       appname = None                                                                                                     │                                                     │
+│ │   binary_file = WindowsPath('C:/Users/arche/scannify/android/gradle/Scannify/app/build/outputs/apk/debug/app-debug.apk') │                                                     │
+│ │       options = {'device_or_avd': None}                                                                                  │                                                     │
+│ │          self = <briefcase.platforms.android.gradle.GradleRunCommand object at 0x0000020C23C81D10>                       │                                                     │
+│ │         state = None                                                                                                     │                                                     │
+│ │ template_file = WindowsPath('C:/Users/arche/scannify/android/gradle/Scannify')                                           │                                                     │
+│ │        update = False                                                                                                    │                                                     │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                     │
+│                                                                                                                                                                                  │
+│ C:\Users\arche\AppData\Local\Programs\Python\Python311\Lib\site-packages\briefcase\platforms\android\gradle.py:226 in run_app                                                    │
+│                                                                                                                                                                                  │
+│   223 │   │   # We force-stop the app to ensure the activity launches freshly.                                                                                                   │
+│   224 │   │   self.logger.info("Installing app...", prefix=app.app_name)                                                                                                         │
+│   225 │   │   with self.input.wait_bar("Stopping old versions of the app..."):                                                                                                   │
+│ ❱ 226 │   │   │   adb.force_stop_app(package)                                                                                                                                    │
+│   227 │   │                                                                                                                                                                      │
+│   228 │   │   # Install the latest APK file onto the device.                                                                                                                     │
+│   229 │   │   with self.input.wait_bar("Installing new app version..."):                                                                                                         │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────────────── locals ──────────────────────────────────────────────╮                                                                           │
+│ │           adb = <briefcase.integrations.android_sdk.ADB object at 0x0000020C27547C10>              │                                                                           │
+│ │           app = <com.example.scannify.scannify v0.0.1 AppConfig>                                   │                                                                           │
+│ │           avd = 'nexus_6p'                                                                         │                                                                           │
+│ │        device = 'emulator-5554'                                                                    │                                                                           │
+│ │ device_or_avd = None                                                                               │                                                                           │
+│ │        kwargs = {}                                                                                 │                                                                           │
+│ │          name = '@nexus_6p (running emulator)'                                                     │                                                                           │
+│ │       package = 'com.example.scannify.scannify'                                                    │                                                                           │
+│ │          self = <briefcase.platforms.android.gradle.GradleRunCommand object at 0x0000020C23C81D10> │                                                                           │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                           │
+│                                                                                                                                                                                  │
+│ C:\Users\arche\AppData\Local\Programs\Python\Python311\Lib\site-packages\briefcase\integrations\android_sdk.py:1187 in force_stop_app                                            │
+│                                                                                                                                                                                  │
+│   1184 │   │   try:                                                                                                                                                              │
+│   1185 │   │   │   self.run("shell", "am", "force-stop", package)                                                                                                                │
+│   1186 │   │   except subprocess.CalledProcessError as e:                                                                                                                        │
+│ ❱ 1187 │   │   │   raise BriefcaseCommandError(                                                                                                                                  │
+│   1188 │   │   │   │   f"Unable to force stop app {package} on {self.device}"                                                                                                    │
+│   1189 │   │   │   ) from e                                                                                                                                                      │
+│   1190                                                                                                                                                                           │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────── locals ─────────────────────────────────────╮                                                                                              │
+│ │ package = 'com.example.scannify.scannify'                                       │                                                                                              │
+│ │    self = <briefcase.integrations.android_sdk.ADB object at 0x0000020C27547C10> │                                                                                              │
+│ ╰─────────────────────────────────────────────────────────────────────────────────╯                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+BriefcaseCommandError: Unable to force stop app com.example.scannify.scannify on emulator-5554
+                                                                                                                                                                      console.py:269
+           >>> Extra information:                                                                                                                                     console.py:270
+                                                                                                                                                                   subprocess.py:516
+           >>> Running Command:                                                                                                                                    subprocess.py:517
+           >>>     'C:\Users\arche\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk\cmdline-tools\latest\bin\sdkmanager.bat' --list_installed               subprocess.py:518
+           >>> Working Directory:                                                                                                                                  subprocess.py:525
+           >>>     C:\Users\arche\scannify                                                                                                                         subprocess.py:526
+           >>> Environment Overrides:                                                                                                                              subprocess.py:535
+           >>>     ANDROID_SDK_ROOT=C:\Users\arche\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk                                                         subprocess.py:537
+           >>>     JAVA_HOME=C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08                                                                       subprocess.py:537
+[20:39:16] >>> Command Output:                                                                                                                                     subprocess.py:542
+           >>>     Loading package information...                                                                                                                  subprocess.py:544
+           >>>     Loading local repository...                                                                                                                     subprocess.py:544
+           >>>     [=========                              ] 25% Loading local repository...                                                                       subprocess.py:544
+           >>>     [=========                              ] 25% Fetch remote repository...                                                                        subprocess.py:544
+           >>>     [=======================================] 100% Fetch remote repository...                                                                       subprocess.py:544
+           >>>     Installed packages:                                                                                                                             subprocess.py:544
+           >>>       Path                                        | Version      | Description                                | Location                            subprocess.py:544
+           >>>       -------                                     | -------      | -------                                    | -------                             subprocess.py:544
+           >>>       build-tools;30.0.2                          | 30.0.2       | Android SDK Build-Tools 30.0.2             | build-tools\30.0.2                  subprocess.py:544
+           >>>       cmake;3.10.2.4988404                        | 3.10.2       | CMake 3.10.2.4988404                       | cmake\3.10.2.4988404                subprocess.py:544
+           >>>       emulator                                    | 31.3.14      | Android Emulator                           | emulator                            subprocess.py:544
+           >>>       ndk;21.4.7075529                            | 21.4.7075529 | NDK (Side by side) 21.4.7075529            | ndk\21.4.7075529                    subprocess.py:544
+           >>>       patcher;v4                                  | 1            | SDK Patch Applier v4                       | patcher\v4                          subprocess.py:544
+           >>>       platform-tools                              | 33.0.3       | Android SDK Platform-Tools                 | platform-tools                      subprocess.py:544
+           >>>       platforms;android-32                        | 1            | Android SDK Platform 32                    | platforms\android-32                subprocess.py:544
+           >>>       system-images;android-31;google_apis;x86_64 | 11           | Google APIs Intel x86 Atom_64 System Image |                                     subprocess.py:544
+           system-images\android-31\google_apis\x86_64                                                                                                                              
+           >>>                                                                                                                                                     subprocess.py:544
+           >>> Return code: 0                                                                                                                                      subprocess.py:553
